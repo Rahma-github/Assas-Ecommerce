@@ -1,0 +1,13 @@
+<div class="login-container">
+  <h2>Login</h2>
+  <form>
+    <label for="email">Email:</label>
+    <input type="email" id="email"  name="email" required>
+
+    <label for="password">Password:</label>
+    <input type="password" id="password"  name="password" required>
+
+    <button type="button btn btn-cutom"  (click)="login()" [hidden]="userLog">Login</button>
+    <button type="button" class="mt-2" (click)="logout()" [hidden]="!userLog">Logout</button>
+  </form>
+</div>

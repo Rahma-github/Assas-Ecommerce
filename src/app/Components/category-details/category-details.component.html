@@ -1,0 +1,24 @@
+<div class="container mt-4">
+  <div *ngIf="selectedCategory">
+    <h2 class="text-center">{{ selectedCategory.name }}</h2>
+    <!-- <p><strong>ID:</strong> {{ selectedCategory.id }}</p> -->
+  </div>
+
+  <div *ngIf="productList.length > 0" class="mt-4">
+    <h4>Products in this Category</h4>
+    <div class="row">
+      <div class="col-md-4" *ngFor="let product of productList">
+        <div class="card mb-3">
+          <img [src]="product.PrdimgURL" class="card-img-top" alt="Product Image">
+          <div class="card-body">
+            <h5 class="card-title">{{ product.name }}</h5>
+            <p class="card-text">Price: ₹{{ product.price }}</p>
+            <button class="btn btn-custom" (click)="viewProductDetails(product.id)">
+              View Product Details
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
