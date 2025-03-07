@@ -1,0 +1,62 @@
+body {
+  background-color: #f8f9fa;
+}
+.hero {
+  background: url('../../../../public/Furniture.png') no-repeat center center/cover;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
+  font-size: 2rem;
+  font-weight: bold;
+}
+.product-card {
+  transition: transform 0.3s;
+}
+.product-card:hover {
+  transform: scale(1.05);
+}
+/* Custom Button Style */
+.btn-custom {
+  background-color: rgba(92, 17, 84, 0.516) !important;
+  border-color: rgba(92, 17, 84, 0.516) !important;
+  color: white !important;
+}
+.btn-custom:hover {
+  background-color: rgba(92, 17, 84, 0.7) !important;
+  border-color: rgba(92, 17, 84, 0.7) !important;
+}
+/* Overview Section */
+.overview-section {
+  background-color: white;
+  padding: 50px 20px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  margin-top: 30px;
+}
+.overview-section h2 {
+  color: rgba(92, 17, 84, 0.8);
+  font-weight: bold;
+}
+.overview-section p {
+  font-size: 1.1rem;
+  color: #333;
+}
+.product-card {
+  transition: transform 0.3s;
+  height: 100%;
+}
+.product-card:hover {
+  transform: scale(1.05);
+}
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.card-img-top {
+  object-fit: cover;
+  height: 200px; /* Ensures images have equal height */
+}

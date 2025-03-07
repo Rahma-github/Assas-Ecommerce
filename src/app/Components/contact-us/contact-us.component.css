@@ -1,0 +1,57 @@
+body {
+  background-color: #f8f9fa;
+  font-family: 'Arial', sans-serif;
+margin-top: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+/* Contact Form Container */
+.contact-container {
+
+  max-width: 600px;
+  margin: 50px auto;
+  background: #fff;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #5c1154;
+  font-weight: bold;
+}
+
+/* Form Elements */
+.form-label {
+  font-weight: 600;
+  color: #333;
+}
+
+.form-control {
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+.form-control:focus {
+  border-color: rgba(92, 17, 84, 0.7);
+  box-shadow: 0 0 5px rgba(92, 17, 84, 0.3);
+}
+
+/* Custom Button */
+.btn-custom {
+  background-color: rgba(92, 17, 84, 0.516) !important;
+  border-color: rgba(92, 17, 84, 0.516) !important;
+  color: white !important;
+  padding: 12px;
+  font-size: 16px;
+  border-radius: 8px;
+  transition: all 0.3s ease-in-out;
+}
+
+.btn-custom:hover {
+  background-color: rgba(92, 17, 84, 0.7) !important;
+  border-color: rgba(92, 17, 84, 0.7) !important;
+  transform: translateY(-2px);
+}

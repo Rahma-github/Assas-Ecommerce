@@ -1,0 +1,331 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Odense  ",
+      "price": 150000000,
+      "quantity": 36,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/163650487-163650487-HC18082021_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 2,
+      "Material": " Wood",
+      "purchaseDate": {}
+    },
+    {
+      "id": "7",
+      "name": "Ventura Fabric Dining Chair",
+      "price": 1500,
+      "quantity": 2,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/161257427-161257427-HC280119_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 3,
+      "Material": "Upholstered Seating",
+      "purchaseDate": {}
+    },
+    {
+      "id": "9",
+      "name": "Boston Study Chair",
+      "price": 1000,
+      "quantity": 15,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/159671547-159671547-HCB1226OCT17_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 3,
+      "Material": "Upholstered Seating",
+      "purchaseDate": {}
+    },
+    {
+      "id": "15",
+      "name": "Accent TV Unit",
+      "price": 36999,
+      "quantity": 1,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/161684469-161684469-HC210519_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 1,
+      "Material": "MDF",
+      "purchaseDate": {}
+    },
+    {
+      "id": "17",
+      "name": "Ventura Fabric Dining Chair",
+      "price": 1500,
+      "quantity": 1,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/162640761-162640761-HC23092020_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 3,
+      "Material": "Upholstered Seating",
+      "purchaseDate": {}
+    },
+    {
+      "id": "10",
+      "name": "Coby Extendable TV Unit",
+      "price": 13000,
+      "quantity": 15,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/163723189-163568026-HC16082021_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 1,
+      "Material": "Wood",
+      "purchaseDate": {}
+    },
+    {
+      "id": "55",
+      "name": "Plymouth TV Unit",
+      "price": 36999,
+      "quantity": 3,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/163688823-163688823-HC05102021_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 1,
+      "Material": "wood",
+      "purchaseDate": {}
+    },
+    {
+      "id": "1254",
+      "name": "product form",
+      "price": 5000,
+      "quantity": 2,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/163645951-163645951-HC07102021_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 2,
+      "Material": "metal",
+      "purchaseDate": "2020-01-01"
+    },
+    {
+      "id": "1212",
+      "name": "product form",
+      "price": 5000,
+      "quantity": 2,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/163688823-163688823-HC05102021_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 1,
+      "Material": "metal",
+      "purchaseDate": "2020-01-01"
+    },
+    {
+      "id": "ecc0",
+      "name": "deleted product confirm",
+      "price": 124576,
+      "quantity": 2,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/163650487-163650487-HC18082021_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 2,
+      "Material": "plastic",
+      "purchaseDate": "2024-12-12"
+    },
+    {
+      "id": "e75f",
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/159671547-159671547-HCB1226OCT17_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 3,
+      "name": "chair ",
+      "price": 1500000,
+      "quantity": 21,
+      "Material": "wood",
+      "purchaseDate": "2025-11-12"
+    },
+    {
+      "id": "7",
+      "name": "Ventura Fabric Dining Chair",
+      "price": 1500,
+      "quantity": 2,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/161257427-161257427-HC280119_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 3,
+      "Material": "Upholstered Seating",
+      "purchaseDate": {}
+    },
+    {
+      "id": "1254",
+      "name": "product form",
+      "price": 5000,
+      "quantity": 2,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/163645951-163645951-HC07102021_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 2,
+      "Material": "metal",
+      "purchaseDate": "2020-01-01"
+    },
+    {
+      "id": "17",
+      "name": "Ventura Fabric Dining Chair",
+      "price": 1500,
+      "quantity": 1,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/162640761-162640761-HC23092020_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 3,
+      "Material": "Upholstered Seating",
+      "purchaseDate": {}
+    },
+    {
+      "id": "a432",
+      "name": "chair3",
+      "price": 2036569595,
+      "quantity": 2,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/159671547-159671547-HCB1226OCT17_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 3,
+      "Material": "plastic",
+      "purchaseDate": "2025-11-12"
+    },
+    {
+      "id": "7",
+      "name": "Ventura Fabric Dining Chair",
+      "price": 1500,
+      "quantity": 2,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/161257427-161257427-HC280119_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 3,
+      "Material": "Upholstered Seating",
+      "purchaseDate": {}
+    },
+    {
+      "id": "a432",
+      "name": "chair3",
+      "price": 2036569595,
+      "quantity": 2,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/159671547-159671547-HCB1226OCT17_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 3,
+      "Material": "plastic",
+      "purchaseDate": "2025-11-12"
+    },
+    {
+      "id": "3632",
+      "name": "TV",
+      "price": 5165,
+      "quantity": 5,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/163688823-163688823-HC05102021_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 1,
+      "Material": "metal",
+      "purchaseDate": "2000-02-05"
+    },
+    {
+      "id": "5175",
+      "name": "TV",
+      "price": 5165,
+      "quantity": 5,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/163688823-163688823-HC05102021_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 1,
+      "Material": "metal",
+      "purchaseDate": "2000-02-05"
+    },
+    {
+      "id": "1898",
+      "name": "TV",
+      "price": 5165,
+      "quantity": 5,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/163688823-163688823-HC05102021_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 1,
+      "Material": "metal",
+      "purchaseDate": "2000-02-05"
+    },
+    {
+      "id": "74f2",
+      "name": "TV",
+      "price": 5165,
+      "quantity": 5,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/163688823-163688823-HC05102021_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 1,
+      "Material": "metal",
+      "purchaseDate": "2000-02-05"
+    },
+    {
+      "id": "74f2",
+      "name": "TV",
+      "price": 5165,
+      "quantity": 5,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/163688823-163688823-HC05102021_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 1,
+      "Material": "metal",
+      "purchaseDate": "2000-02-05"
+    },
+    {
+      "id": "17",
+      "name": "Ventura Fabric Dining Chair",
+      "price": 1500,
+      "quantity": 1,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/162640761-162640761-HC23092020_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 3,
+      "Material": "Upholstered Seating",
+      "purchaseDate": {}
+    },
+    {
+      "id": "7e43",
+      "name": "Tv5-product",
+      "price": 500000,
+      "quantity": 10,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/163688823-163688823-HC05102021_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 1,
+      "Material": "metal",
+      "purchaseDate": "2025-12-22"
+    },
+    {
+      "id": "de2e",
+      "name": "Tv5-product",
+      "price": 500000,
+      "quantity": 10,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/163688823-163688823-HC05102021_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 1,
+      "Material": "metal",
+      "purchaseDate": "2025-12-22"
+    },
+    {
+      "id": "09aa",
+      "name": "Tv5-product",
+      "price": 500000,
+      "quantity": 10,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/163688823-163688823-HC05102021_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 1,
+      "Material": "metal",
+      "purchaseDate": "2025-12-22"
+    },
+    {
+      "id": "21ed",
+      "name": "Tv5-product",
+      "price": 500000,
+      "quantity": 10,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/163688823-163688823-HC05102021_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 1,
+      "Material": "metal",
+      "purchaseDate": "2025-12-22"
+    },
+    {
+      "id": "4261",
+      "name": "Tv5-product",
+      "price": 500000,
+      "quantity": 10,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/163688823-163688823-HC05102021_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 1,
+      "Material": "metal",
+      "purchaseDate": "2025-12-22"
+    },
+    {
+      "id": "727a",
+      "name": "Tv5-product",
+      "price": 500000,
+      "quantity": 10,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/163688823-163688823-HC05102021_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 1,
+      "Material": "metal",
+      "purchaseDate": "2025-12-22"
+    },
+    {
+      "id": "0481",
+      "name": "Tv5-product",
+      "price": 500000,
+      "quantity": 10,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/163688823-163688823-HC05102021_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 1,
+      "Material": "metal",
+      "purchaseDate": "2025-12-22"
+    },
+    {
+      "id": "1de4",
+      "name": "Tv5-product",
+      "price": 500000,
+      "quantity": 10,
+      "PrdimgURL": "https://media.homecentre.com/i/homecentre/163688823-163688823-HC05102021_01-2100.jpg?fmt=auto&$quality-standard$&sm=c&$prodimg-d-sqr-pdp$",
+      "categoryID": 1,
+      "Material": "metal",
+      "purchaseDate": "2025-12-22"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "name": "TVs",
+      "imgCatUrl": "https://www.bhphotovideo.com/images/images2500x2500/lg_24lf452b_24_720p_led_hdtv_1248350.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Tables",
+      "imgCatUrl": "https://i.pinimg.com/originals/16/65/7c/16657c80b52d9766ae0d3df46d5e7f66.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Chairs",
+      "imgCatUrl": "https://th.bing.com/th/id/OIP.rU6YA3Y4tSxEoSH3lEDpKgHaHa?rs=1&pid=ImgDetMain"
+    }
+  ]
+}

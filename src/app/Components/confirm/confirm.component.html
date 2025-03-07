@@ -1,0 +1,12 @@
+<p>confirm works!</p>
+<!-- confirmation-dialog.component.html -->
+<div class="confirmation-dialog">
+  <div class="dialog-content">
+    <h3>{{ title }}</h3>
+    <p>{{ message }}</p>
+    <div class="dialog-actions">
+      <button (click)="onConfirm()" class="btn btn-danger">Confirm</button>
+      <button (click)="onCancel()" class="btn btn-secondary">Cancel</button>
+    </div>
+  </div>
+</div>
